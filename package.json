@@ -1,0 +1,12 @@
+{
+  "name": "vulnerability-demo",
+  "version": "1.0.0",
+  "description": "A project using a package with a critical CVSS score",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.5"
+  },
+  "scripts": {
+    "security-check": "npm audit"
+  }
+}
