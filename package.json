@@ -4,7 +4,18 @@
   "description": "A project using a package with a critical CVSS score",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.5"
+    "lodash": "4.17.20",
+    "minimist": "1.2.5",
+    "axios": "0.21.1",
+    "node-fetch": "2.6.6",
+    "handlebars": "4.7.6",
+    "y18n": "4.0.0",
+    "json-schema": "0.2.3",
+    "ansi-regex": "5.0.0",
+    "shell-quote": "1.7.2",
+    "moment": "2.29.1",
+    "tar": "6.1.8",
+    "ws": "7.4.5"
   },
   "scripts": {
     "security-check": "npm audit"
