@@ -4,7 +4,7 @@
   "description": "A project using a package with a critical CVSS score",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.20",
+    "lodash": "4.18.0",
     "minimist": "1.2.5",
     "axios": "0.21.1",
     "node-fetch": "2.6.6",
