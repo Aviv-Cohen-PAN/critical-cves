@@ -15,7 +15,7 @@
     "shell-quote": "1.7.2",
     "moment": "2.29.1",
     "tar": "6.1.8",
-    "ws": "7.4.5"
+    "ws": "7.5.10"
   },
   "scripts": {
     "security-check": "npm audit"
